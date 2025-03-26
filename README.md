@@ -34,13 +34,14 @@ This project is a **File Conversion Tool** built using Python and `tkinter` for 
 └── 📄 README.md # Documentation
 
 ## 📝 Usage Instructions
-
-1. Launch the `client.py` file.  
-2. Select the desired file conversion type from the dropdown.  
-3. Enter the filename without the extension (e.g., `sample` instead of `sample.txt`).  
-4. Click on **Convert File** to initiate the conversion.  
-5. The converted file will be saved in the output directory, and a success message will be displayed.  
-
+1. Launch the `server.py` file.
+2. Click on **Start server** button.
+3. Launch the `client.py` file.  
+4. Select the desired file conversion type from the dropdown.  
+5. Enter the filename without the extension (e.g., `sample` instead of `sample.txt`).  
+6. Click on **Convert File** to initiate the conversion.  
+7. The converted file will be saved in the output directory, and a success message will be displayed.  
+8. After conversion is done click on **Stop server** button.
 ---
 
 ## ⚡️ Error Handling
@@ -57,7 +58,8 @@ This project is a **File Conversion Tool** built using Python and `tkinter` for 
 - Make sure the ports are correctly configured in both `client.py` and `server.py`.
 
 ---
-![image](https://github.com/user-attachments/assets/7dde9a90-200e-4aae-b67b-264ec1ab5f3d)
+![image](https://github.com/user-attachments/assets/ea4938a1-9728-4e0a-b09a-3d21b4341745)
+
 
 ![image](https://github.com/user-attachments/assets/8730247a-e1c9-4a85-b6a2-fe75d139e04a)
 
